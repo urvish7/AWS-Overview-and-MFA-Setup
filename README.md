@@ -39,22 +39,22 @@ There are 3 ways that you can interact with AWS:
         
    Infrastructure: 
    
-        Consists - Compute services, Amazon EC2
-        AWS role - Manages the infrastructure and foundation services.
-        Customer role - Manages Operating system, application platform, encryption,protecting, customer's data.
+   Consists - Compute services, Amazon EC2
+   AWS role - Manages the infrastructure and foundation services.
+   Customer role - Manages Operating system, application platform, encryption,protecting, customer's data.
       
    Container services:
    
-        Consists - Amazon RDS
-        AWS Role - Manages infrastructure and foundation services, operating system,and application platform. 
-        Customer role - Manages customer data,encryption of that data,protecting it through network firewalls and backups.
+   Consists - Amazon RDS
+   AWS Role - Manages infrastructure and foundation services, operating system,and application platform. 
+   Customer role - Manages customer data,encryption of that data,protecting it through network firewalls and backups.
                 
         
    Abstracted services:
     
-        Consists - Amazon S3
-        AWS Role - Manages infrastructure layer, Operating systems,platforms,service-side encryption and data protection.
-        Customer role - Manages customer data, protecting it by client side encryption.
+   Consists - Amazon S3
+   AWS Role - Manages infrastructure layer, Operating systems,platforms,service-side encryption and data protection.
+   Customer role - Manages customer data, protecting it by client side encryption.
         
         
         
