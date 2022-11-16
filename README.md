@@ -55,14 +55,26 @@ There are 3 ways that you can interact with AWS:
    Consists - Amazon S3
    AWS Role - Manages infrastructure layer, Operating systems,platforms,service-side encryption and data protection.
    Customer role - Manages customer data, protecting it by client side encryption.
-        
-        
-        
-        
+    
     
  
           
  Note: From this step forward you will need AWS already set up, the guidelines to create an account would be on [AWS Signup Guide](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html)
-          
+ 
+ 
+ The root user:
+  
+  This is the admin account who has access/ownership to whole account.
+  
+ How to ensure the protection of the root user?
+ 
+ - Choose a strong password for user
+ - Never share it to anyone
+ - Disable or delete the access keys
+ - Do not use this account for everyday tasks.
+
+
+
+  
           
 
