@@ -73,6 +73,21 @@ There are 3 ways that you can interact with AWS:
  - Disable or delete the access keys
  - Do not use this account for everyday tasks.
 
+Delete your keys to stay safe. 
+
+- Go to the  [My Security Credentials](https://us-east-1.console.aws.amazon.com/iam/home#/security_credentials) page in the AWS Management Console and sign in with the root user’s email address and password.
+- Open the Access keys section.
+- Under Actions, click Delete.
+- Click Yes.
+
+
+
+### IAM  ( Identity and Access Management)
+
+
+What is it?
+    IAM is the web services that enables you to manage access to your AWS account and resources. It provides authentication and authorization facility. Having IAM services will allow to share the resources
+
 
 
   
