@@ -86,7 +86,29 @@ Delete your keys to stay safe.
 
 
 What is it?
-    IAM is the web services that enables you to manage access to your AWS account and resources. It provides authentication and authorization facility. Having IAM services will allow to share the resources
+
+    IAM is the web services that enables you to manage access to your AWS account and resources. It provides authentication and authorization facility. Having IAM services will allow to share the resources without sharing secret key or password.
+    
+IAM Features:
+
+    - IAM is global 
+    - IAM integrated with majorly all AWS services by default
+    - IAM supports MFA
+    - IAM is available for free.
+    
+IAM user: A subsitute user that can login in AWS and acts as per privileges.
+
+
+   
+    
+
+
+
+
+  
+
+
+    
 
 
 
