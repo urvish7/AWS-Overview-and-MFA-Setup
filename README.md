@@ -98,11 +98,11 @@ IAM Features:
     
 IAM user: A subsitute user that can login in AWS and acts as per privileges.
 
+IAM Group:
 
-   
-    
+IAM group is collection of users. All users in group inherit the permissions assigned to the group. Mass permission is given to users at once. 
 
-
+IAM Policy: The set of rules or permission that are define for a IAM group. 
 
 
   
